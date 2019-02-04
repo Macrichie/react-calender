@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### `Use of date-fns npm module `
+This app showed an extensive use of the npm module named date-fns
+
+date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
+date-fns is like lodash for dates. It has 140+ functions for all occasions.
+https://date-fns.org/docs/Getting-Started
